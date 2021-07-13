@@ -72,7 +72,7 @@ function draw() {
 }
 
 function keyPressed(){
-	if(keyCode=== 32){
+	if(keyCode=== UP_ARROW){
 		bob1.force();
 	}
 
